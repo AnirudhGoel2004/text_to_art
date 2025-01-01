@@ -50,8 +50,25 @@ This project uses a generative AI model to create images from textual descriptio
 ## Example
 
 **Prompt**: "A serene sunset over the ocean"  
-**Generated Output**: ![Generated Image](static/example.png)
+**Generated Output**: 
+Whisper of the Horizon
 
-## License
+The sun descends, a gilded crown,
+Adorning waves in amber gown.
+The ocean sighs, its breath so deep,
+A tranquil song that bids the day to sleep.
 
-This project is licensed under the MIT License.
+Clouds blush soft in twilight's glow,
+As winds embrace the ebb and flow.
+Each ripple hums a secret tune,
+While sky and sea merge under the moon.
+
+Golden paths on waters glide,
+Drawing hearts to the horizon's side.
+A moment held in fleeting grace,
+The endless ocean, time's embrace.
+
+Whisper now, oh gentle night,
+Guard this peace 'til morning light.
+For in this sunset's gentle gleam,
+The world finds solace, and dares to dream.
