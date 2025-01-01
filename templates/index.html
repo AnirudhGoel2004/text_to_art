@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AI Text-to-Art Generator</title>
+  </head>
+  <body>
+    <h1>AI Text-to-Art Generator</h1>
+    <form method="post">
+      <label for="prompt">Enter your text description:</label><br />
+      <input type="text" id="prompt" name="prompt" required /><br /><br />
+      <button type="submit">Generate</button>
+    </form>
+    {% if image_path %}
+    <h2>Generated Image:</h2>
+    <img src="{{ image_path }}" alt="Generated Image" />
+    {% endif %}
+  </body>
+</html>
